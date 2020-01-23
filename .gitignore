@@ -1,0 +1,15 @@
+*.pt
+*__pycache__/
+*.~lock.det_yolo3
+*.npy#
+*.weights
+*.vscode/
+*.mp4
+*.avi
+*.pdf
+*.txt
+*.jpg
+*.png
+*.joblib
+*.pdf
+*.csv
